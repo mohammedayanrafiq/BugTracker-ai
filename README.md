@@ -1,2 +1,16 @@
-# BugTracker-ai
-BugTracker AI is a developer-focused issue tracking system that helps manage bugs, track their status, and organize projects efficiently. It simulates a real-world workflow with modular architecture, making it ideal for showcasing scalable application structure.
+# 🐞 BugTracker AI
+
+BugTracker AI is a developer-focused issue tracking system that simulates real-world project workflows.
+
+## ✨ Features
+
+* Bug tracking
+* Priority management
+* Status updates
+* Modular architecture
+
+## 🛠️ Tech
+
+* HTML
+* CSS
+* JavaScript
